@@ -41,7 +41,7 @@
 // JSONP
 callback({"foo" : "bar"})
 ```
-4. Add a new JavaScript function called `callback` that will take a response `data` and log it on the console.
+4. Add a new JavaScript function called `callback` that will take a parameter called `data` and log it on the console.
 5. Update the `send` function to dynamically generate a `script` tag (given below) instead of using `XHR`. 
 ```
           var s = document.createElement("script");
