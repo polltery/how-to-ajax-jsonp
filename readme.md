@@ -1,3 +1,7 @@
+---
+permalink: README.html
+---
+
 # Network Applications : AJAX and JSONP lab exercise
 
 ## Pre-requisites
